@@ -1,0 +1,48 @@
+{
+  "users": {
+    "bruce34": {
+      "password": "Bruce@3456",
+      "todos": [
+        {
+          "id": 1740291668789,
+          "text": "sdfsdv",
+          "completed": false
+        },
+        {
+          "id": 1740291672334,
+          "text": "efcdsf",
+          "completed": false
+        },
+        {
+          "id": 1740291676016,
+          "text": "wedwdwe",
+          "completed": false
+        },
+        {
+          "id": 1740479563915,
+          "text": "tertgfd",
+          "completed": false
+        }
+      ]
+    },
+    "mrin56": {
+      "password": "Mrin@1234",
+      "todos": [
+        {
+          "id": 1740419356494,
+          "text": "dsfgvdf",
+          "completed": false
+        },
+        {
+          "id": 1740419360660,
+          "text": "fgvf",
+          "completed": false
+        }
+      ]
+    },
+    "tam2345": {
+      "password": "Tammy@2345",
+      "todos": []
+    }
+  }
+}
