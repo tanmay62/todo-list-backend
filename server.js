@@ -5,7 +5,7 @@ const path = require("path");
 const session = require("express-session");
 
 const app = express();
-const port = 5000;
+const port = process.env.NODE_ENV || 5000;
 const API_BASE = "/api";
 const DB_FILE = path.join(__dirname, "mockDatabase.json");
 
